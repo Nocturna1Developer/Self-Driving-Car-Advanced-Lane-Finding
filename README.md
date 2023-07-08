@@ -1,4 +1,7 @@
 ## Advanced Lane Finding
+
+### Watch Here: https://www.youtube.com/watch?v=5tyxVKph3Zg&list=PLs_4rBValRlTVzyG5aOz_qvI3s-S9lPQd&index=2&ab_channel=NOKTURNALDEVELOPER
+
 ![Lanes Image](./examples/example_output.jpg)
 
 The Project
